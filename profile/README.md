@@ -32,7 +32,7 @@ Feel free to fork the repositories, submit issues, or open Pull Requests. We app
 - **Website:** [nesoinetwork.com](https://nesoinetwork.com/)
 - **Instagram:** [@nesoicompany](https://instagram.com/nesoicompany)
 - **TikTok:** [@nesoinetwork](https://tiktok.com/@nesoinetwork)
-- **X (Twitter):** [@nesoinetwork](https://x.com/nesoi_network)
+- **X (Twitter):** [@nesoi_network](https://x.com/nesoi_network)
 - **Email:** [contact@nesoinetwork.com](mailto:contact@nesoinetwork.com)
 
 ---
