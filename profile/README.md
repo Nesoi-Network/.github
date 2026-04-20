@@ -1,6 +1,6 @@
 # NESOI Network
 
-![NESOI Network Banner](https://nesoinetwork.com/banner.png)
+![NESOI Network Banner](nesoi/invite_bg.png)
 
 **NESOI Network** is a developer collective focused on building high-quality gaming infrastructure and software solutions.
 
